@@ -1,0 +1,638 @@
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/cypherdh/VanisUILIB/main/.gitignore'))()
+
+local Window = library:CreateWindow("Jevil's Script's Library", "V2.4", 10044538000)
+
+local Tab = Window:CreateTab("Scripts")
+
+local Page = Tab:CreateFrame("Shader Script's")
+
+Button = Page:CreateButton("Shader v1", "Meh, This one's Ok", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/BBtkqLpx"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Shader v2", "This one's good", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/aMqDhpXt"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Shader v3", "Now this, this is on a new level", function()
+loadstring(game:HttpGet(('https://pastefy.ga/xXkUxA0P/raw'),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Hd graphics", "Ooooo ma gaaaa", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/wLsh9ejr"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Hd graphics v2", "V2 of the original", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/nJ193HPH"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Label = Page:CreateLabel("Label")
+Label:UpdateLabel("By shadow86434")
+
+local Page = Tab:CreateFrame("Main Script's")
+
+Button = Page:CreateButton("Infinite yield", "Very useful", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Dark Dex", "This is also useful ", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JevilOhio/dark-dex-v4/main/Dark%20dex%20v4"))();
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Nuke Hub", "This one's good", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("NoClip", "The powa of clipping", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaksBloxX/NoClipScript/main/NoClip%20Roblox", true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Fly", "Is it a bird? a plane? no, its a player bending the laws of physics", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaksBloxX/NoClipScript/main/Fly%20V3", true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Virtual Keyboard (mobile)", "Useful for those on mobile", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Virtual Cursor (mobile)", "Useful for cursor only stuff", function()
+loadstring(game:HttpGet(('https://pastefy.ga/V75mqzaz/raw'),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Simple spy", "Watcha' spyin' for eh?", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Fps unlocker", "Not sure if this one works for other executers out there", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/GPLcE14s"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Fullbright", "basically lightmode", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/JcZEsZ9B"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Doors")
+
+Button = Page:CreateButton("Voidz", "Prob recommend Vynixius on pc", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RTrade/Voidz/main/Games.lua'),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Hardcore", "Beware of this script, it will make your game extremely hard", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/e1rt2w6N"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Super Hard Mode (April fools)", "Makes it so its Super easy mode instead lol", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/u7nYmN3U"))();
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("King Hub", "this one's decent", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Entity Spawner", "Meh, This one's decent", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/UtilitiesHub/main/UtilitiesGUI'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("MsDoors", "good", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSDOORS.lua"),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Nerd Doors v3", "cool script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/DoorsV3_ByNerd.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Nerd Doors v3 ~ the rooms", "Meh, This one's only for rooms", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/doorsroomdone.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Doors - The Rooms Auto Walk", "Auto walk to A-1000", function()
+loadstring(game:HtppGet("https://pastebin.com/raw/H8D7kwFH"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Statue Hub", "Statue.", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/statue/main/script"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Darkrai X (Doors)", "cool one", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Shadow Script's (PC)", "Meh, a cool one for PC", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowScripts4Roblox/PROTECTEDLUA/main/Scripts/DOORS/Loader52.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("DOORS Gui", "IDK what the name of this script is", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/scripts/main/doors'),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("POOPDOORS (old)", "still works very well", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Vynixius", "REALLY GOOD, FOR PC ONLY THOUGH (╥﹏╥)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Be anything/Objects", "Become anything on doors", function()
+-- Made By Nerd
+-- Youtube = https://www.youtube.com/@MrNeRD_x
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/BeEverything.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("NoClip + ByPasser", "Keybind Is J (by: devid)", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/EUjYk2uA"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Label = Page:CreateLabel("Label")
+Label:UpdateLabel("Doors Items Script's")
+
+Button = Page:CreateButton("Tablet/Scanner", "Scans breakers, levers keys etc. (by: devid)", function()
+_G.UpdateStars = true -- stars disappear after picking up a book/breaker pole | false: a little lag
+_G.OnShop = true -- can buy on pre run shop
+_G.Price = 1000 -- tablet price on shop
+_G.Description = "helps you find Levers, Breaker's, books." -- tablet description on shop
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DeividComSono/Scripts/main/Scanner.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Crusifix on anything", "Keybind for this to work is Q (by: penguin maniack)", function()
+_G.Uses = 1000000
+_G.Range = 1000
+_G.OnAnything = true
+_G.Fail = false
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PenguinManiack/Crucifix/main/Crucifix.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Custom Vitamins", "Gives you swift speed III (by: oogway)", function()
+getgenv().CustomVitamins = {
+    SpeedBoost = 4,
+    EffectDuration = 25
+}
+loadstring(game:HttpGet("https://pastebin.com/raw/qH9PEhfQ"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Shears on Anything", "This is similar to the Crusifix on anything (by: penguin maniack)", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/99JUbZqj"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Deflect")
+
+Button = Page:CreateButton("Auto deflect", "takes a while. key is (ChristmasIn1Month)", function()
+loadstring(game:HttpGet("https://soggyhubv2.vercel.app"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Blox Fruits")
+
+Button = Page:CreateButton("Zamex Hub", "cool features", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Uranium Hub", "Decent", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumMobile/main/UraniumKak.lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("BLCK Hub", "This one is cool and easy to use", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/BLCK"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Build a boat")
+
+Button = Page:CreateButton("BABFT Gui", "why is there an UWU typed in this script..", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Auto Build", "I have no imagination", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/auto-build-not-limit/main/autobuild.txt"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Funky Friday")
+
+Button = Page:CreateButton("Auto Play", "i cant feel my arms", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Disable/Enable auto play", "why didn't the owner of this used keybinds instead?", function()
+getgenv().keytoclick = "Delete"
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = keytoclick
+tool.Activated:connect(function()
+    local vim = game:service("VirtualInputManager")
+vim:SendKeyEvent(true, keytoclick, false, game)
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+wait(0.2)
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "thatsnotmatt#2602";
+Title = "zzz#0001";
+Duration = 10;
+});
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Fruit Warrior")
+
+Button = Page:CreateButton("Auto Farm", "sounds like combat warriors", function()
+_G.Key = "FREEKEY2023"
+
+  loadstring(game:HttpGet("https://roflux.net/scripts/games/" .. tostring(game.PlaceId) .. ".lua"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Shovelware's brain game")
+
+Button = Page:CreateButton("Auto Win", "I don't like quizzes", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JevilOhio/idk/main/Shovelware's%20brain%20game"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Tower Of Hell")
+
+Button = Page:CreateButton("Tower of Hell", "you hate jumping", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub",true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+local Page = Tab:CreateFrame("Apeirophobia")
+
+Button = Page:CreateButton("SimulationCore ESP", "this ones old", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/3V8ut3QX"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Entity ESP", "Same as the other one, but it's entity's", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/p8kshBBn"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Free gamepass", "HOLYYYYY. reset for this to work btw", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/3cv3FMaF"))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Gui 1 (recommended)", "Cool one", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/E240-h/apgui/main/n'),true))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
+
+Button = Page:CreateButton("Gui 2", "idk, this one's decent too", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/0ptVa7Dn'))()
+CreateNotification("Title", "Description", function(value)
+if value == true then
+print(true)
+else
+print(false)
+end
+end)
+end)
